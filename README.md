@@ -1,4 +1,4 @@
-## Inventory Management System (Console App in C#)
+# Inventory Management System (Console App in C#)
 
 This is a beginner-to-intermediate level **C# Console Application** designed to manage inventory items. It was built as a practical learning project to deeply understand **string manipulation, data formatting, validation, and basic data handling** using arrays in C#.
 
