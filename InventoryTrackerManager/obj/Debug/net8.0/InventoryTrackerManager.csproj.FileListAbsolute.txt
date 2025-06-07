@@ -1,0 +1,14 @@
+D:\visual_studio\InventoryTrackerManager\InventoryTrackerManager\bin\Debug\net8.0\InventoryTrackerManager.exe
+D:\visual_studio\InventoryTrackerManager\InventoryTrackerManager\bin\Debug\net8.0\InventoryTrackerManager.deps.json
+D:\visual_studio\InventoryTrackerManager\InventoryTrackerManager\bin\Debug\net8.0\InventoryTrackerManager.runtimeconfig.json
+D:\visual_studio\InventoryTrackerManager\InventoryTrackerManager\bin\Debug\net8.0\InventoryTrackerManager.dll
+D:\visual_studio\InventoryTrackerManager\InventoryTrackerManager\bin\Debug\net8.0\InventoryTrackerManager.pdb
+D:\visual_studio\InventoryTrackerManager\InventoryTrackerManager\obj\Debug\net8.0\InventoryTrackerManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual_studio\InventoryTrackerManager\InventoryTrackerManager\obj\Debug\net8.0\InventoryTrackerManager.AssemblyInfoInputs.cache
+D:\visual_studio\InventoryTrackerManager\InventoryTrackerManager\obj\Debug\net8.0\InventoryTrackerManager.AssemblyInfo.cs
+D:\visual_studio\InventoryTrackerManager\InventoryTrackerManager\obj\Debug\net8.0\InventoryTrackerManager.csproj.CoreCompileInputs.cache
+D:\visual_studio\InventoryTrackerManager\InventoryTrackerManager\obj\Debug\net8.0\InventoryTrackerManager.dll
+D:\visual_studio\InventoryTrackerManager\InventoryTrackerManager\obj\Debug\net8.0\refint\InventoryTrackerManager.dll
+D:\visual_studio\InventoryTrackerManager\InventoryTrackerManager\obj\Debug\net8.0\InventoryTrackerManager.pdb
+D:\visual_studio\InventoryTrackerManager\InventoryTrackerManager\obj\Debug\net8.0\InventoryTrackerManager.genruntimeconfig.cache
+D:\visual_studio\InventoryTrackerManager\InventoryTrackerManager\obj\Debug\net8.0\ref\InventoryTrackerManager.dll
